@@ -60,7 +60,7 @@
             .foto_direita{
                 width:100px;
                 height:100px;
-                background-image: url(";);
+                background-image: url("https://i.redd.it/0upojjkkveqa1.jpg;);
                 margin-left: 50px;
                 margin-top: 125px;
             }
